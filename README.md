@@ -129,8 +129,3 @@ sudo ./create_users.sh users.txt
 Review Logs: Check /var/log/user_management.log for details about the script’s execution.
 
 Secure Passwords: Verify the generated passwords in /var/secure/user_passwords.txt.
-
-## Conclusion
-This task is part of the HNG Internship. Learn more about the internship program at https://hng.tech/internship or explore premium at  https://hng.tech/premium
-
-Thanks!
